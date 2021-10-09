@@ -1,0 +1,34 @@
+.parent{
+    background: red;
+    padding: 10px;
+}
+.parent div{
+    text-align: center;
+    background-color: #eee;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: calc((100% - 70px)/6);
+    margin-left: 10px;
+    display: inline-block;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+/* float lesson 28
+a= 6*10px
+b= (100% - 6*10px)/5
+
+*/
+
+/*  الشفافية
+    opacity: 0.1;
+
+*/
+.one{
+    opacity: 0.5;
+    background-color: red;
+}
+.two{
+background-color: rgb(255 0 0 / 10%);
+}

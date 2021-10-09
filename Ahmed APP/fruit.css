@@ -1,0 +1,36 @@
+.first{
+    background-color: teal;
+    background-image: url(../Pictures/ahmedpic.jpg);
+    background-repeat: no-repeat;
+    background-position: 500px  ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .first{
+    background-color: rgb(202, 69, 69);
+}
+.second{
+    background-color: rgb(62, 91, 177);
+}
+.third{
+    background-color: rgb(201, 201, 56);
+}
+.fruit{
+    background-color: teal;
+} */

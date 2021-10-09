@@ -1,0 +1,16 @@
+div{
+background: #ddd;
+padding: 20px;
+margin: 20px;
+width: 40%;
+margin: auto;
+border: 10px solid tomato;
+border-radius: 50px;
+
+/* Block  inline_lock inline  (ctrl+h = find ande replace / Alt ) */
+   /* visibility: hidden; 
+   display: none; 
+   display: block; */
+}
+
+

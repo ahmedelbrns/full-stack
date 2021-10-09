@@ -1,0 +1,69 @@
+div{
+    color: black;
+    background: rgb(209, 228, 224);
+    padding: 10px;
+    width: fit-content;
+    text-shadow: 1px 1px 7px red;
+    /* font-weight: 700; */
+
+    /* 16
+    overflow: hidden;
+    overflow-y: hidden;   
+    overflow-x: hidden;
+        overflow: scroll; */
+        /* background-color: silver; */
+    }
+    /* الكتابة باللغة العربية 18 */
+    .arabic{
+        text-align: center;
+        direction: rtl;
+        color: rgb(24, 25, 29);
+    }
+    .gooogle{
+        padding: 7px;
+        border-radius: 20px;
+        font-size: xx-large;
+        background-color: #f44336;
+        text-decoration: blink;
+        display: inline-flex;
+        
+    }
+    /* اضبط الزر 19
+     text-transform: uppercase;
+    text-decoration: blink; */
+
+
+    .elzeroo{
+        text-transform: uppercase;
+        margin: 6px 0px;
+        border-radius: 10px;
+        /*20 
+         word-break: break-all;  يستخدم في الروابط الكبيرة
+        white-space: nowrap;    في العناوين عشان متنزلش */
+    }
+    .text{
+        background: #ddd;
+        padding: 10px;
+        width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    /* inherit  الورث*/
+.first{
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    background-color: cornsilk;
+    font-size: 20px;
+    border: 2px solid red;
+}
+.para{
+    border: 2px solid ;
+    border-color: inherit;
+    padding: inherit;
+
+}
+
+
+        
